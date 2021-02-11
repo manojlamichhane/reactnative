@@ -1,12 +1,9 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
+import Calculator from "./components/calculator";
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>React Native Basics</Text>
-    </View>
-  );
+  return <Calculator />;
 }
 
 const styles = StyleSheet.create({
