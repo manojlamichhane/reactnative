@@ -1,4 +1,4 @@
-### Sample_ui
+### Home_page_ui
 
 <img src= "Screenshots/sample_ui.jpg" width="250px">
 
@@ -6,10 +6,10 @@
 
 <img src="Screenshots/calculator_ui.jpg" width="250px">
 
-### sample_ui_2
+### Home_page_ui
 
 <img src="Screenshots/sample_ui_2.jpg" width="250px">
 
-### sample_ui_3
+### Home_page_ui
 
 <img src="Screenshots/sample_ui_3.jpg" width="250px">
